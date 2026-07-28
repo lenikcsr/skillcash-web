@@ -1,6 +1,0 @@
-com\mycompany\skillcashweb\resources\JakartaEE10Resource.class
-com\skillcash\servlet\UsuarioServlet.class
-com\skillcash\conexion\ConexionDB.class
-com\skillcash\modelo\Usuario.class
-com\mycompany\skillcashweb\JakartaRestConfiguration.class
-com\skillcash\dao\UsuarioDAO.class
